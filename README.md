@@ -12,7 +12,7 @@ XLnet data and trained model can be found at: https://drive.google.com/drive/u/0
 Bert data and trained model can be found at: https://drive.google.com/drive/u/0/folders/1MTUngI1CusJmrAGrICsj5-n6MWpOHxRW
 
 
-Model summary
+#### Model summary
 
-![image](https://user-images.githubusercontent.com/110852825/190204292-03d5a83e-ad14-4e5b-940d-1049d5075b87.png)
+![image](https://user-images.githubusercontent.com/110852825/190205317-d0eecae9-d01b-43ab-a6f3-3a5fab1ea064.png)
 
