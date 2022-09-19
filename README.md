@@ -1,4 +1,4 @@
-# i172-python-invasion-claim-identityf
+# i172-python-invasion-claim-identify
 We trained three model to identify claim for python invasion.
 
 Least XLnet and bert_multi_label were trained on Colab. The other one was trained with Comprehend on AWS.
